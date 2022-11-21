@@ -17,6 +17,7 @@
   */
 
 #include "main.h"
+#include "lcd.h"
 
 ADC_HandleTypeDef hadc1;
 
