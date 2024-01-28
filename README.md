@@ -10,7 +10,7 @@ Karbon is a network of systems that makes use of bluetooth technology to relay i
 
 
 ## How is it made
-We used an STM32 Nucleo board, a carbon dioxide sensor, as well as a custom 3d-printed shell to build our product. It is designed with weather in mind - so that the Karbon network can survive the harsest of climates. We used MIT app inventor for the android application.
+We used an STM32 Nucleo board, a carbon dioxide sensor, as well as a custom 3d-printed shell to build our product. It is designed with weather in mind - so that the Karbon network can survive the harsest of climates. The code for the hardware portion is written in C and parts assembler. We used MIT app inventor and Java for the android application.
 
 
 ## Revision History
